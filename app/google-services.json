@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "783756159401",
+    "firebase_url": "https://myfirbasechat.firebaseio.com",
+    "project_id": "myfirbasechat",
+    "storage_bucket": "myfirbasechat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783756159401:android:a3b588778428927f",
+        "android_client_info": {
+          "package_name": "wrestlerringtones.custom.firebasesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783756159401-jifid6bk8k8g6id4s13n1dbp9puag083.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wrestlerringtones.custom.firebasesample",
+            "certificate_hash": "27a318fa4746c5311f0679cd89cfcc51b8a9c839"
+          }
+        },
+        {
+          "client_id": "783756159401-fsk2d0ui4vkqu47a03ogk8hvq8jkd6k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2EEXLi2Kuq-KjDex4DOaN0wWFxp4pHb8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783756159401-fsk2d0ui4vkqu47a03ogk8hvq8jkd6k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
